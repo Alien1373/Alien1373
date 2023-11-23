@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am currently polishing my Python programming skills.
+I have a fair background in electronics and like to play around with Arduino hardware.
+
+Fun Fact: Penguins only live in the south pole (Antarctica) and not the north pole. That does not make any sense since the south pole is freaking freezing!
+
 <!--
 **Alien1373/Alien1373** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
